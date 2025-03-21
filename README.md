@@ -94,6 +94,10 @@ pip install requests
 
 本项目仅用于学习交流，请严格遵守微信公众平台使用协议。使用者应对采集行为负全部责任，开发者不承担任何法律风险。
 
----
+----
 🔄 最后更新：2024-03-18 | 📧 问题反馈：1136660162@qq.com
+- 联系作者：  
+![img.png](img.png)
 
+git config --global http.proxy 'http://127.0.0.1:1080'
+git config --global https.proxy 'https://127.0.0.1:1080'
