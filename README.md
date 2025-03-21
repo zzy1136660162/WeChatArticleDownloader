@@ -96,8 +96,6 @@ pip install requests
 
 ----
 🔄 最后更新：2024-03-18 | 📧 问题反馈：1136660162@qq.com
-- 联系作者：  
-![img.png](assets/img.png)
 
-git config --global http.proxy 'http://127.0.0.1:1080'
-git config --global https.proxy 'https://127.0.0.1:1080'
+#### 联系作者：  
+![img.png](assets/img.png)
